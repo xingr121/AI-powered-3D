@@ -1,6 +1,6 @@
 import Canvas from "./canvas";
-import Home from "./pages/Home";
 import Customizer from "./pages/Customiizer";
+import Home from "./pages/Home";
 
 function App() {
   return (
